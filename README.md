@@ -1,7 +1,18 @@
-### Hi there 👋
+<h1>Hi, I'm Roger Hayford! </h1>
 
-<!--
-**Rogerhayford/Rogerhayford** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Cybersecurity Analyst:</h2>
+
+- [Active Directory Home lab](https://github.com/Rogerhayford)
+
+<h2> Certifications</h2>
+
+- [Google Cybersecurity Professional Certificate](https://www.youtube.com/)
+
+
+<h2>[ 🤳 Connect with me:](https://www.linkedin.com/in/roger-hayford-723625173/)</h2>
+
+[linkedin]: https://linkedin.com/roger-hayford-723625173/
+
 
 Here are some ideas to get you started:
 
